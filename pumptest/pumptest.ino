@@ -1,3 +1,8 @@
+// Author: Jerry Wang
+// Date created: July 5th, 2015
+// Quick test to ensure functionality of pump, bridge driver and arduino
+
+// Variable declaration
 int outPin = 8;
 boolean pump = false;
 
